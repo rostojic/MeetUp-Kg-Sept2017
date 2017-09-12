@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-cloud-sharepoint-client-side-solution",
+    "id": "7d14ae7c-ee31-4963-a9fc-b22df8a96187",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": false
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-cloud-sharepoint.sppkg"
+  }
+}

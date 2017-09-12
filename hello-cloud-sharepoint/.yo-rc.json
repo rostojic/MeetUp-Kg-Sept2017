@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.2.0",
+    "libraryName": "hello-cloud-sharepoint",
+    "libraryId": "7d14ae7c-ee31-4963-a9fc-b22df8a96187",
+    "environment": "spo"
+  }
+}
